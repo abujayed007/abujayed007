@@ -1,4 +1,5 @@
-![Banner Image]([[https://i.imgur.com/yourimage.png](https://drive.google.com/file/d/18sOLPiM1hB5MIocVuyx2ZzJmiTADwU80/view?usp=sharing)](https://ibne-abu-jayed.imgbb.com/))
+![Banner Image](https://ibb.co/TmGvXtg)
+
 
 <h1 align="center">Hi 👋, I'm Ibne Abu Jayed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh . Building Dynamic, Efficient, and Scalable Front-End Applications</h3>
