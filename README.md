@@ -1,4 +1,5 @@
-(https://ibb.co/TmGvXtg)
+![Banner Image](https://ibb.co/TmGvXtg)
+
 
 
 <h1 align="center">Hi 👋, I'm Ibne Abu Jayed</h1>
